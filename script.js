@@ -23,4 +23,4 @@ function addTask() {
 
 }
 
-updateTaskLis();
+updateTaskList();
